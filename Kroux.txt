@@ -1,0 +1,2579 @@
+Halo Fountain;7
+Even the Score;3
+Jetmir, Nexus of Revels;4
+Body Launderer;6
+Urabrask, Heretic Praetor;7
+Angel of Suffering;4
+Vivien on the Hunt;4
+Arcane Bombardment;5
+Sanctuary Warden;4
+Bootleggers' Stash;4
+All-Seeing Arbiter;5
+Titan of Industry;6
+Lord Xander, the Collector;7
+Meeting of the Five;4
+Raffine's Tower;-1
+Xander's Lounge;-1
+Jetmir's Garden;-1
+Ziatora's Proving Ground;-1
+Errant, Street Artist;4
+Giada, Font of Hope;6
+Black Market Tycoon;4
+Tenacious Underdog;5
+Cut of the Profits;3
+Unlicensed Hearse;2
+Gala Greeters;6
+Scheming Fence;6
+Ledger Shredder;4
+Park Heights Pegasus;3
+Aven Heartstabber;2
+Toluz, Clever Conductor;6
+Sanguine Spy;6
+Professional Face-Breaker;7
+Fight Rigging;6
+Rigo, Streetwise Mentor;4
+Widespread Thieving;3
+Evolving Door;4
+Extraction Specialist;4
+Jinnie Fay, Jetmir's Second;5
+Maestros Diabolist;2
+Void Rend;7
+Riveteers Ascendancy;5
+Shakedown Heavy;6
+Brokers Ascendancy;7
+Getaway Car;4
+Cemetery Tampering;5
+Corpse Explosion;3
+Cabaretti Ascendancy;6
+Incandescent Aria;4
+Maestros Ascendancy;4
+Endless Detour;5
+Devilish Valet;5
+Topiary Stomper;3
+Undercover Operative;6
+Hoard Hauler;4
+Reservoir Kraken;7
+Depopulate;6
+Fleetfoot Dancer;4
+Jaxis, the Troublemaker;5
+Ziatora's Envoy;5
+Ognis, the Dragon's Lash;4
+Unleash the Inferno;4
+Workshop Warchief;6
+Structural Assault;4
+Rabble Rousing;5
+Hostile Takeover;4
+Cut Your Losses;3
+Soul of Emancipation;1
+Shadow of Mortality;3
+Jace, Cunning Castaway;4
+Rowdy Crew;2
+Admiral Beckett Brass;6
+Huatli, Warrior Poet;4
+Vona, Butcher of Magan;7
+Huatli, Dinosaur Knight;3
+Axis of Mortality;3
+Vraska, Relic Seeker;7
+Carnage Tyrant;6
+Jace, Ingenious Mind-Mage;3
+Tishana, Voice of Thunder;5
+Star of Extinction;6
+Overflowing Insight;3
+Wakening Sun's Avatar;7
+Gishath, Sun's Avatar;7
+Glacial Fortress;-1
+Sunpetal Grove;-1
+Dragonskull Summit;-1
+Drowned Catacomb;-1
+Rootbound Crag;-1
+Shapers' Sanctuary;5
+Deadeye Tracker;4
+Old-Growth Dryads;2
+Priest of the Wakening Sun;4
+Legion's Landing;7
+Adanto, the First Fort;7
+Treasure Map;5
+Treasure Cove;5
+Deeproot Champion;3
+Shadowed Caravel;2
+Fathom Fleet Captain;2
+Bloodcrazed Paladin;2
+Sanguine Sacrament;6
+Ashes of the Abhorrent;3
+Tocatli Honor Guard;5
+Arguel's Blood Fast;5
+Temple of Aclazotz;5
+Dowsing Dagger;4
+Lost Vale;4
+Search for Azcanta;8
+Azcanta, the Sunken Ruin;7
+Thaumatic Compass;4
+Spires of Orazca;4
+Entrancing Melody;3
+Kopala, Warden of Waves;7
+Deathgorge Scavenger;6
+Mavren Fein, Dusk Apostle;6
+Arcane Adaptation;5
+Captain Lannery Storm;4
+Tilonalli's Skinshifter;3
+Rampaging Ferocidon;5
+Repeating Barrage;2
+Sword-Point Diplomacy;3
+Kinjalli's Sunwing;6
+Ruin Raider;5
+Fell Flagship;3
+Growing Rites of Itlimoc;5
+Itlimoc, Cradle of the Sun;5
+Settle the Wreckage;7
+Herald of Secret Streams;4
+Vraska's Contempt;6
+Emperor's Vanguard;3
+Vance's Blasting Cannons;5
+Spitfire Bastion;5
+Conqueror's Galleon;2
+Conqueror's Foothold;5
+Primal Amulet;4
+Primal Wellspring;4
+Dreamcaller Siren;3
+Bishop of Rebirth;6
+Regisaur Alpha;5
+Sun-Blessed Mount;1
+Spell Swindle;2
+Vanquisher's Banner;6
+Grasping Current;1
+Revel in Riches;3
+Burning Sun's Avatar;6
+Angrath's Marauders;5
+Goring Ceratops;4
+Fleet Swallower;3
+Abaddon the Despoiler;6
+Fabricate;7
+Vanguard Suppressor;5
+Blood for the Blood God!;6
+Liliana, Heretical Healer;8
+Liliana, Defiant Necromancer;8
+Ghoulcaller Gisa;7
+Reanimate;10
+Ophiomancer;6
+Toxic Deluge;7
+Phyrexian Arena;8
+Omnath, Locus of Mana;8
+Freyalise, Llanowar's Fury;7
+Worldly Tutor;7
+Sylvan Library;10
+Seedborn Muse;7
+Bane of Progress;5
+Kaya, Ghost Haunter;-1
+Puresteel Angel;-1
+Fomori Nomad;-1
+Freyalise, Skyshroud Partisan;-1
+Davriel, Soul Broker;-1
+Kiora, the Tide's Fury;-1
+Sarkhan, Wanderer to Shiv;-1
+Teyo, Aegis Adept;-1
+Managorger Phoenix;-1
+Benalish Partisan;-1
+Subversive Acolyte;5
+Pool of Vigorous Growth;-1
+Tome of the Infinite;-1
+Shoreline Scout;-1
+Longtusk Stalker;-1
+Skyshroud Lookout;-1
+Static Discharge;-1
+Manor Guardian;-1
+Wingsteed Trainer;-1
+Boneyard Aberration;2
+Davriel's Withering;-1
+Reckless Ringleader;-1
+Baffling Defenses;-1
+Leonin Sanctifier;-1
+Plaguecrafter's Familiar;-1
+Lumbering Lightshield;-1
+Skyshroud Ambush;-1
+Ethereal Grasp;-1
+Faceless Agent;-1
+Veteran Charger;-1
+Sarkhan's Scorn;-1
+Bounty of the Deep;-1
+Fabled Path of Searo Point;3
+Keeper of the Secret Lair;-1
+Collectigull;-1
+Only the Best;-1
+Champions of Archery;-1
+Arvinox, the Mind Flail;5
+Mountain Mover;-1
+Euroakus;-1
+Commander's Plate;7
+Ral Zarek;7
+Daretti, Scrap Savant;6
+Embercleave;8
+The Locust God;6
+Shivan Reef;-1
+Flamekin Village;3
+Tolaria West;3
+Sulfur Falls;-1
+Inventors' Fair;4
+Academy Ruins;8
+Training Center;-1
+Shadowspear;3
+Gamble;4
+Krark, the Thumbless;4
+Reshape;4
+Mox Amber;5
+History of Benalia;6
+Karn, Scion of Urza;8
+Phyrexian Scriptures;4
+Verix Bladewing;4
+Lyra Dawnbringer;7
+Teferi, Hero of Dominaria;7
+Chandra, Bold Pyromancer;-1
+Demonlord Belzenlok;7
+Teferi, Timebender;-1
+Darigaaz Reincarnated;4
+Cabal Stronghold;6
+Isolated Chapel;-1
+Woodland Cemetery;-1
+Clifftop Retreat;-1
+Hinterland Harbor;-1
+Kamahl's Druidic Vow;4
+Naban, Dean of Iteration;6
+Goblin Chainwhirler;5
+Niambi, Faithful Healer;-1
+Steel Leaf Champion;6
+Sylvan Awakening;5
+Dread Shade;4
+Tempest Djinn;6
+The First Eruption;3
+Forebear's Blade;3
+Grand Warlord Radha;4
+Thran Temporal Gateway;6
+Territorial Allosaurus;3
+Helm of the Host;6
+Josu Vess, Lich Knight;4
+Aryel, Knight of Windgrace;4
+Precognition Field;2
+Shalai, Voice of Plenty;6
+Rite of Belzenlok;3
+The Antiquities War;6
+Daring Archaeologist;3
+Traxos, Scourge of Kroog;4
+Two-Headed Giant;3
+Mishra's Self-Replicator;3
+The Mirari Conjecture;3
+Yawgmoth's Vile Offering;7
+Chandra's Outburst;-1
+Urza's Ruinous Blast;5
+Gilded Lotus;3
+Oath of Teferi;5
+Fall of the Thran;2
+Karn's Temporal Sundering;5
+Lich's Mastery;4
+Evra, Halcyon Witness;3
+Haphazard Bombardment;3
+Kazarov, Sengir Pureblood;2
+Primevals' Glorious Rebirth;6
+Verdant Force;3
+Memorial to Unity;3
+Memorial to Glory;3
+Sorcerer's Wand;2
+Dauntless Bodyguard;4
+Fungal Plots;3
+The Flame of Keld;5
+Triumph of Gerrard;3
+Urza's Tome;2
+Elfhame Druid;2
+Shanna, Sisay's Legacy;4
+Nature's Spiral;3
+Knight of Grace;3
+Song of Freyalise;3
+Diligent Excavator;1
+Knight of Malice;3
+Gaea's Blessing;5
+Board the Weatherlight;2
+Seal Away;6
+Untamed Kavu;3
+Tetsuko Umezawa, Fugitive;7
+Sporecrown Thallid;4
+Shield of the Realm;2
+Sage of Lat-Nam;3
+Merfolk Trickster;6
+Damping Sphere;3
+Hallar, the Firefletcher;2
+Valduk, Keeper of the Flame;3
+Fight with Fire;3
+Wizard's Lightning;5
+Goblin Warchief;6
+Rona, Disciple of Gix;3
+Adeliz, the Cinder Wind;6
+Curator's Ward;2
+Slimefoot, the Stowaway;3
+Goblin Barrage;1
+Skizzik;2
+Icy Manipulator;2
+Kwende, Pride of Femeref;5
+Chainer's Torment;3
+Amaranthine Wall;1
+Whisper, Blood Liturgist;2
+Warcry Phoenix;4
+Baird, Steward of Argive;4
+Karplusan Hound;-1
+Wild Onslaught;2
+Spore Swarm;1
+Time of Ice;5
+Tatyova, Benthic Druid;5
+Firefist Adept;4
+Weight of Memory;3
+Final Parting;2
+Teferi's Sentinel;-1
+Arvad the Cursed;3
+Yargle, Glutton of Urborg;2
+In Bolas's Clutches;5
+Urgoros, the Empty One;3
+Lingering Phantom;2
+Grunn, the Lonely King;4
+Thorn Elemental;3
+Demonic Vigor;3
+Fungal Infection;1
+Fervent Strike;1
+Arcane Flight;1
+Artificer's Assistant;1
+Warlord's Fury;1
+Shivan Fire;1
+Ghitu Lavarunner;3
+Tragic Poet;2
+Sparring Construct;1
+Skirk Prospector;1
+Blessing of Belzenlok;1
+Navigator's Compass;1
+Bloodtallow Candle;1
+Healing Grace;1
+Stronghold Confessor;1
+Rescue;1
+Benalish Honor Guard;1
+Serra Disciple;1
+Frenzied Rage;1
+Llanowar Scout;2
+Corrosive Ooze;1
+Blink of an Eye;2
+Knight of New Benalia;1
+Pierce the Sky;1
+Broken Bond;2
+Cabal Evangel;1
+Jousting Lance;1
+Ghitu Chronicler;1
+Keldon Warcaller;1
+Saproling Migration;1
+Vicious Offering;2
+Voltaic Servant;4
+Caligo Skin-Witch;1
+Bloodstone Goblin;1
+Gideon's Reproach;2
+Rat Colony;1
+Gift of Growth;1
+Keldon Overseer;1
+Krosan Druid;2
+Pyromantic Pilgrim;2
+Sergeant-at-Arms;1
+Yavimaya Sapherd;2
+Ghitu Journeymage;2
+Grow from the Ashes;1
+Deep Freeze;2
+Academy Drake;1
+Llanowar Envoy;1
+Drudge Sentinel;1
+D'Avenant Trapper;2
+Powerstone Shard;1
+Aesthir Glider;1
+Unwind;4
+Temporal Machinations;3
+Cabal Paladin;4
+Aven Sentry;1
+Baloth Gorger;1
+Homarid Explorer;2
+Seismic Shift;3
+Thallid Omnivore;1
+Eviscerate;1
+Rampaging Cyclops;1
+Gaea's Protector;1
+Windgrace Acolyte;1
+Excavation Elephant;1
+Guardians of Koilos;3
+Blessed Light;1
+Fiery Intervention;2
+Academy Journeymage;2
+Cold-Water Snapper;1
+Pardic Wanderer;1
+Ezuri, Renegade Leader;6
+Talara's Battalion;6
+Yeva, Nature's Herald;7
+Pia and Kiran Nalaar;5
+Gladehart Cavalry;4
+Regal Force;6
+Treetop Village;3
+Voyager Staff;5
+Shrapnel Blast;3
+Trophy Mage;2
+Viridian Shaman;4
+Reclusive Artificer;4
+Nissa's Judgment;2
+Barrage Ogre;1
+Natural Selection;4
+Raging River;3
+Chaos Orb;-1
+Camouflage;1
+False Orders;2
+;-1
+;-1
+King Suleiman;1
+Shahrazad;8
+Jihad;3
+Pyramids;1
+Merchant Ship;1
+Sandals of Abdallah;1
+Stone-Throwing Devils;2
+Camel;1
+Desert Nomads;1
+Army of Allah;1
+Golgothian Sylex;-1
+Powerleech;-1
+Damping Field;3
+Haunting Wind;2
+Drafna's Restoration;6
+Artifact Ward;-1
+Priest of Yawgmoth;-1
+Phyrexian Gremlins;-1
+Artifact Possession;3
+Imprison;-1
+Field of Dreams;2
+Jovial Evil;1
+Gravity Sphere;1
+Infinite Authority;6
+Typhoon;-1
+Falling Star;-1
+Life Matrix;-1
+Pixie Queen;-1
+Rapid Fire;-1
+Invoke Prejudice;8
+North Star;6
+Spiritual Sanctuary;2
+Caverns of Despair;3
+Lifeblood;1
+Master of the Hunt;2
+Quarum Trench Gnomes;1
+Reverberation;-1
+Forethought Amulet;-1
+Ring of Immortals;1
+Elder Spawn;-1
+Ur-Drago;-1
+Mold Demon;-1
+Gosta Dirk;1
+Cathedral of Serra;-1
+Mountain Stronghold;-1
+Adventurers' Guildhouse;-1
+Unholy Citadel;-1
+Seafarer's Quay;-1
+Dwarven Song;-1
+Touch of Darkness;-1
+Part Water;-1
+Sylvan Paradise;-1
+Dream Coat;-1
+Great Defender;1
+Sea Kings' Blessing;-1
+Heaven's Gate;-1
+Wall of Tombstones;1
+Kry Shield;-1
+Silhouette;1
+Backdraft;1
+Spectral Cloak;1
+Quagmire;-1
+Undertow;-1
+Great Wall;-1
+Deadfall;-1
+Ichneumon Druid;2
+Crevasse;-1
+Hyperion Blacksmith;2
+Wall of Putrid Flesh;-1
+Floral Spuzzem;-1
+Brine Hag;-1
+Infernal Medusa;-1
+Aerathi Berserker;-1
+Marble Priest;-1
+Lord Magnus;-1
+Kasimir the Lone Wolf;-1
+Equinox;-1
+Feint;-1
+Aisling Leprechaun;-1
+Rust;-1
+Clergy of the Holy Nimbus;1
+Subdue;-1
+Glyph of Reincarnation;-1
+Glyph of Doom;-1
+Glyph of Destruction;1
+Glyph of Delusion;1
+Glyph of Life;1
+Hell Swarm;1
+Remove Enchantments;1
+Wall of Earth;1
+Wall of Caltrops;-1
+Barbary Apes;-1
+Shelkin Brownie;-1
+Walking Dead;2
+Venarian Gold;-1
+Blazing Effigy;1
+Raging Bull;-1
+Hornet Cobra;1
+Headless Horseman;-1
+Giant Turtle;-1
+Enchanted Being;1
+Devouring Deep;1
+Contract from Below;99
+Farmstead;3
+Demonic Attorney;-1
+Darkpact;-1
+Rocket Launcher;-1
+Jandor's Ring;1
+Sacrifice;-1
+Dwarven Weaponsmith;1
+Reverse Polarity;-1
+Nettling Imp;-1
+Guardian Angel;-1
+Earthbind;-1
+Frankenstein's Monster;-1
+Season of the Witch;3
+Cleansing;4
+Lurker;1
+Grave Robbers;1
+Niall Silvain;-1
+Nameless Race;2
+Eternal Flame;4
+Psychic Allergy;1
+Worms of the Earth;3
+Hidden Path;-1
+Dark Sphere;-1
+Tangle Kelp;3
+Fasting;-1
+Whippoorwill;-1
+Electric Eel;-1
+Scarwood Hag;-1
+People of the Woods;2
+Tower of Coireall;-1
+Standing Stones;-1
+Reflecting Mirror;1
+Wand of Ith;-1
+Curse Artifact;1
+Fire and Brimstone;-1
+Necropolis;-1
+Savaen Elves;-1
+Miracle Worker;1
+Festival;-1
+Riptide;1
+Water Wurm;-1
+Scarwood Goblins;-1
+Marsh Goblins;-1
+Deep Water;1
+Inquisition;-1
+Giant Shark;-1
+Killer Cosplay;-1
+Water Gun Balloon Game;-1
+Saw in Half;-1
+The Space Family Goblinson;-1
+Assembled Ensemble;-1
+Effluence Devourer;-1
+Back-Alley Gardener;-1
+Diviner of Fates;-1
+Spelldrain Assassin;-1
+Spara's Bodyguard;-1
+Agent of Raffine;-1
+Rope Line Attendant;-1
+Brokers' Safeguard;-1
+Pass the Torch;-1
+Loose in the Park;-1
+Riveteers Provocateur;-1
+Racketeer Boss;-1
+Bind to Secrecy;-1
+Obscura Polymorphist;-1
+Cabaretti Revels;-1
+Bank Job;-1
+Syndicate Recruiter;-1
+Arming Gala;-1
+Graven Archfiend;-1
+Herald of Vengeance;-1
+Shattering Finale;-1
+Celestial Vault;-1
+Menagerie Curator;-1
+Big Spender;-1
+Xander's Wake;-1
+Choice of Fortunes;-1
+Skyline Savior;-1
+Traumatic Prank;-1
+Giant Regrowth;-1
+Nightclub Bouncer;-1
+Goblin Kaboomist;3
+Goblin Engineer;4
+Whir of Invention;6
+Yusri, Fortune's Flame;3
+Fiery Gambit;5
+Sword of Vengeance;2
+Seize the Day;3
+Impulsive Maneuvers;4
+Crooked Scales;3
+Boompile;3
+Chance Encounter;5
+Spark Double;7
+Bloodsworn Steward;1
+Sakashima the Impostor;6
+Karplusan Minotaur;2
+Chandra's Ignition;4
+Risky Move;1
+Mirror March;5
+Buried Ruin;4
+Vandalblast;7
+Serum Visions;3
+Footfall Crater;4
+Goblin Archaeologist;1
+Mogg Assassin;1
+Squee's Revenge;1
+Whispersilk Cloak;2
+Frenetic Sliver;1
+Tribute Mage;4
+Long-Term Plans;3
+Planar Chaos;4
+Great Furnace;8
+Slip Through Space;3
+Muddle the Mixture;4
+Negate;2
+Temur Battle Rage;2
+Tavern Scoundrel;2
+Counterspell;5
+Havengul Laboratory;3
+Havengul Mystery;6
+Wernog, Rider's Chaplain;4
+Bjorna, Nightfall Alchemist;6
+Othelm, Sigardian Outcast;5
+Elmar, Ulvenwald Informant;5
+Sophina, Spearsage Deserter;6
+Hargilde, Kindly Runechanter;5
+Cecily, Haunted Mage;3
+Mentor of Evos Isle;-1
+Scion of Shiv;-1
+;-1
+;-1
+Mardu Outrider;4
+Soulhunter Rakshasa;5
+Hallowed Priest;4
+Goblin Gang Leader;3
+Compound Fracture;-1
+Tin Street Cadet;1
+Cruel Cut;-1
+Nimble Pilferer;1
+Baloth Packhunter;-1
+;-1
+Join the Group;2
+Myntasha, Honored One;-1
+War of the Spark;1
+The Cinematic Phoenix;5
+Lucille;-1
+Glenn, the Voice of Calm;-1
+Rick, Steadfast Leader;-1
+Daryl, Hunter of Walkers;-1
+Negan, the Cold-Blooded;-1
+Michonne, Ruthless Survivor;-1
+Chun-Li, Countless Kicks;-1
+Ryu, World Warrior;-1
+Ken, Burning Brawler;-1
+Guile, Sonic Soldier;-1
+Dhalsim, Pliable Pacifist;-1
+Blanka, Ferocious Friend;-1
+Zangief, the Red Cyclone;-1
+E. Honda, Sumo Champion;-1
+Princess Twilight Sparkle;-1
+Rarity;-1
+Nightmare Moon;-1
+Princess Luna;-1
+Basri;-1
+Chandra, Gremlin Wrangler;4
+Dungeon Master;4
+Nira, Hellkite Duelist;6
+Unicorns;-1
+Rainbow;-1
+Garruk;-1
+Milling;-1
+Walls;-1
+Pirates;-1
+Angels;-1
+Minotaurs;-1
+Lands;-1
+Cats;-1
+Discarding;-1
+Under the Sea;-1
+Rogues;-1
+Spirits;-1
+Witchcraft;-1
+Dogs;-1
+Heavily Armored;-1
+Feathered Friends;-1
+Smashing;-1
+Minions;-1
+Vampires;-1
+Well-Read;-1
+Archaeology;-1
+Tree-Hugging;-1
+Dinosaurs;-1
+Plus One;-1
+Spooky;-1
+Spellcasting;-1
+Reanimated;-1
+Above the Clouds;-1
+Wizards;-1
+Doctor;-1
+Predatory;-1
+Fiendish Duo;5
+Earthshaker Giant;5
+Sphinx of Enlightenment;4
+Highcliff Felidar;3
+Ripjaw Raptor;7
+Engulf the Shore;7
+Kytheon's Irregulars;4
+Akoum Hellkite;3
+Torgaar, Famine Incarnate;4
+Thunderherd Migration;2
+Consul's Lieutenant;4
+Ranging Raptors;5
+Accursed Horde;2
+Steppe Glider;-1
+Crested Herdcaller;4
+Rise from the Tides;6
+Tattered Mummy;2
+Mighty Leap;1
+Topan Freeblade;2
+Brute Strength;1
+Take Vengeance;3
+Dramatic Reversal;4
+Kargan Dragonrider;1
+Lightning Strike;4
+Spidery Grasp;2
+Claustrophobia;4
+Aven Wind Mage;1
+Fiend Binder;2
+Zealot of the God-Pharaoh;1
+Decision Paralysis;1
+Carrion Screecher;1
+Grazing Whiptail;1
+Gavony Unhallowed;1
+Voldaren Duelist;2
+Salvager of Secrets;2
+Delif's Cube;1
+Dwarven Armorer;-1
+Balm of Restoration;-1
+Implements of Sacrifice;-1
+Conch Horn;-1
+Thelon's Curse;-1
+Goblin Flotilla;-1
+Tourach's Gate;-1
+Draconian Cylix;-1
+Zelyon Sword;-1
+Spirit Shield;-1
+Vodalian War Machine;-1
+Homarid Shaman;-1
+Thelonite Monk;-1
+Icatian Skirmishers;-1
+Dwarven Lieutenant;-1
+Goblin Kites;-1
+Svyelunite Priest;1
+Raiding Party;-1
+Thrull Wizard;1
+Farrelite Priest;-1
+Heroism;-1
+Tidal Influence;1
+Tourach's Chant;-1
+Thelon's Chant;-1
+Delif's Cone;-1
+Elven Fortress;2
+Icatian Moneychanger;-1
+Icatian Infantry;1
+Tidal Flats;-1
+Elvish Scout;4
+Vodalian Mage;2
+Merseine;-1
+Revelation;3
+Jeweled Bird;5
+Land's Edge;3
+Teleport;1
+Ayesha Tanaka;-1
+Johan;-1
+Cocoon;-1
+Abu Ja'far;-1
+Goblin Artisans;-1
+Blood of the Martyr;-1
+Puppet Master;4
+Shimian Night Stalker;2
+Wall of Opposition;-1
+Beasts of Bogardan;-1
+Metamorphosis;-1
+Indestructible Aura;-1
+Giant Slug;-1
+Transmutation;3
+Emerald Dragonfly;-1
+Wall of Shadows;4
+Keepers of the Faith;-1
+Wall of Heat;1
+War Elephant;-1
+Living Armor;-1
+Wall of Vapor;4
+Runesword;-1
+Ben Rubin Decklist;-1
+Randy Buehler Bio;-1
+Ben Rubin Bio;-1
+Brian Selden Bio;-1
+Randy Buehler Decklist;-1
+1998 World Championships Ad;-1
+Brian Hacker Bio;-1
+Brian Selden Decklist;-1
+Brian Hacker Decklist;-1
+Robot Chicken;-1
+Phoenix Heart;-1
+Splendid Genesis;-1
+Fraternal Exaltation;-1
+Proposal;-1
+1996 World Champion;-1
+Shichifukujin Dragon;-1
+Gem Bazaar;3
+Rainbow Knights;2
+Orcish Catapult;-1
+Goblin Polka Band;-1
+Whimsy;-1
+Call from the Grave;3
+Prismatic Dragon;-1
+Necropolis of Azar;1
+Faerie Dragon;-1
+Power Struggle;-1
+Pandora's Box;-1
+Aswan Jaguar;-1
+Chain Stasis;-1
+Dwarven Pony;-1
+Winter Sky;-1
+Apocalypse Chime;-1
+Soraya the Falconer;-1
+Timmerian Fiends;-1
+Dwarven Sea Clan;-1
+Beast Walkers;-1
+Rysorian Badger;-1
+Heart Wolf;-1
+Baki's Curse;-1
+Daughter of Autumn;-1
+Koskun Falls;3
+Mammoth Harness;-1
+Hazduhr the Abbot;-1
+Black Carriage;-1
+Aysen Highway;-1
+Veldrane of Sengir;-1
+Koskun Keep;-1
+An-Havva Township;-1
+Wizards' School;-1
+Aysen Abbey;-1
+Castle Sengir;-1
+Ghost Hounds;-1
+Drudge Spell;-1
+An-Havva Inn;-1
+Evaporate;-1
+Orcish Mine;-1
+Sea Troll;-1
+Irini Sengir;-1
+Root Spider;-1
+Serra Inquisitors;-1
+Rashka the Slayer;-1
+Folk of An-Havva;-1
+Prophecy;-1
+Trade Caravan;-1
+Dwarven Trader;-1
+Coral Reef;-1
+Aliban's Tower;-1
+Willow Faerie;-1
+Giant Albatross;-1
+Headstone;-1
+Jinx;-1
+Cemetery Gate;-1
+Abbey Matron;-1
+Renewal;-1
+Sengir Bats;-1
+Samite Alchemist;-1
+Chandler;-1
+Joven;-1
+Ogre Painbringer;4
+Goblin Bruiser;2
+Blinding Radiance;1
+Titanic Pelagosaur;3
+Shorecomber Crab;2
+Plots That Span Centuries;-1
+Drench the Soil in Their Blood;-1
+Imprison This Insolent Wretch;-1
+Perhaps You've Met My Cohort;-1
+Your Inescapable Doom;-1
+Ruhan of the Fomori;4
+Alliance of Arms;5
+Magus of the Vineyard;4
+Trade Secrets;5
+Attrition;4
+Champion's Helm;5
+Acorn Catapult;1
+Ruination;4
+False Prophet;2
+Dominus of Fealty;6
+Numot, the Devastator;5
+Martyr's Bond;4
+Insurrection;5
+Celestial Force;5
+Trench Gorger;6
+Chorus of the Conclave;4
+Spurnmage Advocate;3
+Goblin Cadets;1
+Azorius Guildmage;3
+Punishing Fire;4
+Pollen Lullaby;5
+Jötun Grunt;3
+Gomazoa;4
+Prison Term;6
+Vedalken Plotter;3
+Aura Shards;5
+Firespout;3
+Scattering Stroke;1
+Squallmonger;1
+Sigil Captain;3
+Nemesis Trap;2
+Rapacious One;3
+Death Mutation;4
+Colossal Might;2
+Journey to Nowhere;5
+Lash Out;2
+Selesnya Evangel;2
+Whirlpool Whelm;2
+Monk Realist;3
+Footbottom Feast;4
+Murmurs from Beyond;2
+Faultgrinder;3
+Mishra's Toy Workshop;-1
+Some Disassembly Required;-1
+Bog Humbugs;-1
+Goblin Sleigh Ride;-1
+Last-Minute Chopping;-1
+Thopter Pie Network;-1
+Decorated Knight;-1
+Present Arms;-1
+Topdeck the Halls;-1
+Fruitcake Elemental;-1
+Snow Mercy;-1
+Yule Ooze;-1
+Evil Presents;-1
+Season's Beatings;-1
+Gifts Given;-1
+Stocking Tiger;-1
+Naughty;-1
+Nice;-1
+Furnace of Rath;6
+Rumbling Slum;5
+Glory of Warfare;4
+Menacing Ogre;3
+Nefashu;4
+Helldozer;7
+Ascendant Evincar;4
+Living Hive;4
+Razia, Boros Archangel;3
+Broodstar;5
+Flamekin Harbinger;5
+Withered Wretch;2
+Arcbound Slith;3
+Captain's Maneuver;4
+Skeleton Shard;8
+Goblin Offensive;4
+Nuisance Engine;4
+Serum Tank;2
+Tribal Unity;3
+Rockslide Elemental;2
+Soulless One;4
+Undead Warchief;5
+Arcbound Crusher;3
+Sludge Strider;4
+Noxious Ghoul;5
+Corpse Harvester;3
+Battery;4
+Bull Cerodon;4
+Beseech the Queen;3
+Vault of Whispers;8
+Tree of Tales;8
+Battlegate Mimic;2
+Rotting Rats;2
+Cerodon Yearling;3
+Shepherd of Rot;4
+Wizard Replica;1
+Bogardan Firefiend;1
+Cadaverous Knight;1
+Suntouched Myr;2
+Keep Watch;2
+Arsenal Thresher;2
+Silverglade Elemental;1
+Sol, Advocate Eternal;1
+The Legend of Arena;3
+Library of Alexandria;99
+Bazaar of Baghdad;10
+Mishra's Workshop;10
+Tolarian Academy;8
+Lion's Eye Diamond;8
+Fastbond;10
+Time Vault;10
+City in a Bottle;-1
+Yawgmoth's Will;8
+Wheel of Fortune;10
+Muzzio, Visionary Architect;9
+Eureka;8
+Coercive Portal;9
+Morphling;8
+Memory Jar;10
+Scourge of the Throne;10
+Yawgmoth's Bargain;8
+Tundra;10
+Badlands;10
+Taiga;10
+Underground Sea;10
+Yavimaya Hollow;9
+Savannah;10
+Tropical Island;10
+Kjeldoran Outpost;9
+Bayou;10
+Lake of the Dead;7
+Thawing Glaciers;10
+Volcanic Island;10
+Plateau;10
+Scrubland;10
+Strip Mine;9
+Keldon Necropolis;7
+Goblin Lackey;7
+Mox Jet;99
+Mox Emerald;99
+Black Lotus;99
+Mox Pearl;99
+Mox Sapphire;99
+Mox Ruby;99
+Ancestral Recall;99
+Time Walk;99
+Timetwister;99
+Sphere of Resistance;8
+Null Rod;4
+Rofellos, Llanowar Emissary;8
+Ankh of Mishra;7
+Volrath's Shapeshifter;7
+Zhalfirin Crusader;4
+Nature's Ruin;3
+Cruel Bargain;4
+Ring of Gix;2
+Parallax Wave;4
+Crescendo of War;7
+Masticore;3
+Plea for Power;7
+Norwood Priestess;6
+Lightning Dragon;3
+Smokestack;8
+Saproling Burst;5
+Karn, Silver Golem;9
+Gigapede;5
+Drakestown Forgotten;4
+Deranged Hermit;6
+Shivan Wurm;5
+Burning of Xinye;4
+Flowstone Sculpture;3
+Palinchron;8
+Baleful Force;6
+Bad River;10
+Kharis & The Beholder;6
+Optimus Prime, Inspiring Leader;6
+Paul McCabe Bio;-1
+Jakub Šlemr Decklist;-1
+Janosch Kühn Decklist 1997;-1
+Paul McCabe Decklist;-1
+Svend Geertsen Bio;-1
+Janosch Kühn Bio 1997;-1
+Jakub Šlemr Bio;-1
+1997 World Championships Ad;-1
+Svend Geertsen Decklist;-1
+;-2
+Militant Angel;3
+Avatar of Growth;3
+Goblin Goliath;3
+Rot Hulk;3
+Benalish Marshal;7
+Always Watching;6
+Soulblade Djinn;4
+Siege-Gang Commander;4
+Zahid, Djinn of the Lamp;3
+Nissa's Revelation;6
+Favorable Winds;3
+Rolling Thunder;5
+Hydrolash;2
+Everdawn Champion;3
+Rhonas's Monument;4
+Snare Thopter;3
+Thallid Soothsayer;3
+Bright Reprisal;1
+Cruel Revival;1
+Subjugator Angel;4
+Jungle Delver;1
+Fan Bearer;1
+Seek the Wilds;2
+Welder Automaton;1
+Manalith;1
+Gruesome Fate;1
+Call the Cavalry;1
+M'Odo, the Gnarled Oracle;8
+Inzerva, Master of Insights;9
+Diabolical Salvation;8
+Grimlock, Dinobot Leader;-1
+Grimlock, Ferocious King;-1
+Nerf War;-1
+Garruk Wildspeaker;6
+Liliana Vess;4
+Bad Moon;4
+Mutilate;3
+Rude Awakening;3
+Plated Slagwurm;3
+Ghost-Lit Stalker;1
+Windstorm;1
+Genju of the Cedars;2
+Genju of the Fens;3
+Albino Troll;1
+Wall of Bone;1
+Keening Banshee;1
+Howling Banshee;3
+Stampeding Wildebeests;2
+Deathgreeter;3
+Vampire Bats;1
+Ravenous Rats;4
+Vicious Hunger;1
+Vine Trellis;1
+Lignify;4
+Drudge Skeletons;1
+Wirewood Savage;4
+Faerie Macabre;1
+Snuff Out;5
+Serrated Arrows;1
+Blastoderm;2
+Nissa, Voice of Zendikar;4
+Despoiler of Souls;3
+Priest of the Blood Rite;4
+Thicket Elemental;4
+Pestilence Demon;4
+Leechridden Swamp;3
+Scythe Leopard;1
+Shadows of the Past;4
+Squelching Leeches;4
+Seek the Horizon;1
+Briarhorn;5
+Jaddi Lifestrider;4
+Fertile Thicket;3
+Mire's Toll;1
+Foul Imp;1
+Grim Discovery;2
+Oran-Rief Invoker;1
+Nissa's Chosen;4
+Giant Scorpion;1
+Civic Wayfinder;1
+Unhallowed Pact;1
+Gilt-Leaf Seer;1
+Hideous End;2
+Blistergrub;3
+Demon's Grasp;1
+Renegade Demon;1
+Oakgnarl Warrior;1
+Rustic Clachan;3
+Catapult Master;4
+Razormane Masticore;5
+Triskelion;2
+Daru Encampment;2
+Kor Aeronaut;2
+Trip Noose;1
+Energy Chamber;3
+Serrated Biskelion;1
+Abolish;1
+Seasoned Marshal;2
+Synod Centurion;1
+Swell of Courage;1
+Goldmeadow Harrier;2
+Mosquito Guard;1
+Razor Barrier;1
+Burrenton Bombardier;1
+Clockwork Condor;1
+Conclave Equenaut;1
+Moon Sprite;1
+Mons's Goblin Raiders;1
+Willow Elf;-1
+Royal Falcon;-1
+Hand of Death;-1
+Durkwood Boars;-1
+Rukh;-1
+Chaoslace;-1
+Timber Wolves;-1
+Purelace;-1
+Thoughtlace;-1
+Hurr Jackal;-1
+Lifelace;-1
+Deathlace;-1
+Power Surge;-1
+Relic Bind;-1
+Volcanic Eruption;-1
+Magnetic Mountain;3
+Sunglasses of Urza;-1
+El-Hajjâj;-1
+Tempest Efreet;5
+Blue Mana Battery;3
+Red Mana Battery;3
+Green Mana Battery;3
+White Mana Battery;3
+Black Mana Battery;3
+Psionic Entity;-1
+Bronze Tablet;4
+Mishra's War Machine;4
+Island Fish Jasconius;-1
+Aladdin's Lamp;7
+Siren's Call;1
+Green Ward;2
+Red Ward;2
+Black Ward;2
+Tunnel;-1
+White Ward;2
+Backfire;1
+Ali Baba;-1
+Blue Ward;2
+Simulacrum;-1
+Ashnod's Battle Gear;-1
+Wall of Dust;-1
+Wall of Ice;-1
+Wall of Water;-1
+Celestial Prism;-1
+Conservator;-1
+Abomination;-1
+Marsh Gas;-1
+Energy Tap;-1
+Holy Armor;-1
+Nafs Asp;-1
+Creature Bond;-1
+Word of Binding;1
+Goblin Rock Sled;-1
+Power Leak;2
+Piety;-1
+Erosion;3
+Land Leeches;-1
+Sisters of the Flame;2
+Gray Ogre;-1
+Morale;-1
+Fortified Area;-1
+Taunt;3
+Treetop Defense;-1
+Temporary Truce;1
+Stern Marshal;1
+Capricious Sorcerer;-1
+King's Assassin;8
+Thundering Wurm;-1
+Cruel Tutor;3
+Mercenary Knight;-1
+Final Strike;-1
+Dread Charge;2
+Serpent Assassin;3
+Cruel Fate;4
+Scorching Winds;-1
+Defiant Stand;-1
+Renewing Dawn;1
+Assassin's Blade;3
+Plant Elemental;-1
+Valorous Charge;-1
+Noxious Toad;-1
+Wall of Granite;-1
+Virtue's Ruin;3
+Command of Unsummoning;3
+Desert Drake;-1
+Charging Bandits;-1
+Arrogant Vampire;-1
+Starlit Angel;-1
+Deep-Sea Serpent;-1
+Vampiric Feast;-1
+Willow Dryad;2
+Sorcerous Sight;4
+Burning Cloak;-1
+Fruition;-1
+Mobilize;-1
+Cloak of Feathers;-1
+Cloud Pirates;-1
+Craven Knight;-1
+Skeletal Snake;-1
+Omen;3
+Fleet-Footed Monk;1
+Mind Knives;3
+Keen-Eyed Archers;-1
+Minotaur Warrior;-1
+Warrior's Charge;-1
+Raging Cougar;-1
+Vampiric Touch;-1
+Highland Giant;-1
+Undying Beast;-1
+Skeletal Crocodile;-1
+Rowan Treefolk;-1
+Sacred Knight;-1
+Fire Snake;2
+Sheltered Valley;1
+Phantasmal Sphere;4
+Tidal Control;1
+Sworn Defender;2
+Splintering Wind;-1
+Fatal Lore;-1
+Chaos Harlequin;-1
+Misfortune;-1
+Omen of Fire;4
+Keeper of Tresserhorn;-1
+School of the Unseen;-1
+Nature's Chosen;-1
+Soldier of Fortune;3
+Suffocation;-1
+Scarab of the Unseen;1
+Surge of Strength;1
+Unlikely Alliance;-1
+Diseased Vermin;3
+Krovikan Plague;-1
+Seasoned Tactician;-1
+Stromgald Spy;-1
+Lim-Dûl's Paladin;3
+Urza's Engine;-1
+Agent of Stromgald;-1
+Gift of the Woods;2
+Veteran's Voice;-1
+Royal Herbalist;-1
+Soldevi Sentry;-1
+Awesome Presence;1
+Undergrowth;-1
+Insidious Bookworms;5
+Kjeldoran Pride;-1
+Foresight;-1
+Soldevi Adnate;-1
+Stench of Decay;-1
+Whip Vine;-1
+Casting of Bones;2
+Fyndhorn Druid;-1
+Noble Steeds;-1
+Soldevi Heretic;-1
+Enslaved Scout;-1
+Martyrdom;-1
+Kjeldoran Escort;-1
+Carrier Pigeons;-1
+Taste of Paradise;-1
+Balduvian War-Makers;-1
+Gorilla Berserkers;-1
+Soldevi Steam Beast;-1
+Inspiring Commander;3
+Angelic Reward;1
+Confront the Assault;1
+River's Favor;1
+Tactical Advantage;2
+Zephyr Gull;1
+Raging Goblin;1
+Sanctuary Cat;1
+Knight's Pledge;1
+Treetop Warden;1
+Shrine Keeper;1
+Feral Roar;1
+Spiritual Guardian;1
+Ezuri's Archers;2
+Inventor's Goggles;1
+Elvish Vanguard;4
+Kujar Seedsculptor;1
+Elvish Branchbender;5
+Ghirapur Gearcrafter;2
+Neurok Replica;1
+Artificer's Epiphany;1
+Trinket Mage;5
+Llanowar Empath;2
+Air Servant;1
+Cone of Flame;1
+Incremental Growth;2
+Marked by Honor;1
+Jace Beleren;4
+Chandra Nalaar;5
+Demonfire;5
+Rakdos Pit Dragon;5
+Quicksilver Dragon;4
+Keldon Megaliths;3
+Pyre Charger;2
+Wall of Deceit;1
+Slith Firewalker;3
+Waterspout Djinn;3
+Fledgling Mawcor;3
+Flame Javelin;1
+Martyr of Frost;1
+Seal of Fire;-1
+Flamekin Brawler;3
+Fireslinger;2
+Voidmage Apprentice;2
+Incinerate;2
+Inner-Flame Acolyte;1
+Ophidian;1
+Gush;10
+Oxidda Golem;3
+Fireblast;6
+Spire Golem;4
+Consume the Meek;3
+It That Betrays;5
+Eldrazi Temple;7
+Chandra, Pyromaster;5
+Obsidian Fireheart;7
+Nissa, Worldwaker;4
+Gideon Jura;4
+Nicol Bolas, Planeswalker;6
+Sudden Demise;5
+Precinct Captain;4
+Grand Abolisher;4
+Dreadbore;6
+Fiendslayer Paladin;4
+Chandra's Phoenix;5
+Icefall Regent;3
+Torchling;4
+Lightwielder Paladin;2
+Archfiend of Depravity;7
+Oran-Rief Hydra;6
+Aegis Angel;4
+Cruel Ultimatum;5
+Veldt;-1
+Lava Tubes;-1
+River Delta;-1
+Halls of Mist;4
+Timberline Ridge;-1
+Land Cap;-1
+Mystic Might;1
+Winter's Chill;1
+Spoils of War;1
+Hot Springs;3
+Kjeldoran Knight;-1
+Altar of Bone;4
+Blizzard;-1
+Ghostly Flame;-1
+Formation;-1
+Goblin Lyre;-1
+Pale Bears;-1
+Aegis of the Meek;-1
+Reality Twist;-1
+Flow of Maggots;-1
+Runed Arch;-1
+Chromatic Armor;4
+Staff of the Ages;-1
+Pygmy Allosaurus;-1
+Illusionary Presence;-1
+Spoils of Evil;-1
+Mountain Titan;-1
+Snowblind;-1
+Flooded Woodlands;-1
+Trailblazer;-1
+General Jarkeld;1
+Oath of Lim-Dûl;4
+Chaos Moon;4
+Total War;5
+Brand of Ill Omen;5
+Mercenaries;-1
+Monsoon;3
+Dwarven Armory;-1
+Mind Whip;5
+Reclamation;3
+Curse of Marit Lage;6
+Amulet of Quoz;2
+Kjeldoran Phalanx;-1
+Chaos Lord;2
+Infernal Denizen;2
+Black Scarab;1
+Red Scarab;1
+Arcum's Sleigh;-1
+Blue Scarab;1
+Green Scarab;1
+White Scarab;1
+Malachite Talisman;-1
+Illusionary Terrain;-1
+Krovikan Elementalist;-1
+Hematite Talisman;-1
+Lim-Dûl's Hex;4
+Lapis Lazuli Talisman;-1
+Baton of Morale;-1
+Leshrac's Sigil;5
+Orcish Healer;-1
+Whalebone Glider;-1
+Arcum's Weathervane;-1
+Freyalise Supplicant;-1
+Onyx Talisman;-1
+Fyndhorn Bow;1
+Freyalise's Charm;-1
+Nacre Talisman;-1
+Snow Hound;-1
+Sunstone;4
+Cold Snap;-1
+Force Void;-1
+Wall of Shields;-1
+Yavimaya Gnats;-1
+Touch of Vitae;-1
+War Chariot;-1
+Aggression;-1
+Battle Cry;-1
+Wall of Lava;2
+Maddening Wind;4
+Arcum's Whistle;4
+Essence Vortex;2
+Stench of Evil;5
+Wall of Pine Needles;-1
+Breath of Dreams;4
+Melting;-1
+Silver Erne;-1
+Avalanche;2
+Drought;4
+Fanatical Fever;-1
+Melee;1
+Rime Dryad;-1
+Ray of Erasure;3
+Balduvian Shaman;-1
+Kelsinko Ranger;-1
+Kjeldoran Warrior;-1
+Clairvoyance;4
+Burnt Offering;2
+Earthlore;-1
+Fylgja;2
+Rally;1
+Balduvian Bears;1
+Seizures;3
+Arctic Foxes;-1
+Goblin Sappers;-1
+Gaze of Pain;1
+Kjeldoran Guard;-1
+Mistfolk;-1
+Snow Devil;1
+Zuran Enchanter;3
+Battle Frenzy;-1
+Cooperation;-1
+Adarkar Unicorn;-1
+Snowfall;-1
+Legions of Lim-Dûl;-1
+Dire Wolves;-1
+Errant Minion;4
+Pyknite;-1
+Juniper Order Druid;2
+Kjeldoran Skyknight;-1
+Pestilence Rats;4
+Grizzled Wolverine;-1
+Elvish Healer;-1
+Barbarian Guides;-1
+Gorilla Pack;-1
+Arnjlot's Ascent;-1
+Hoar Shade;2
+Tor Giant;-1
+Norritt;5
+Bone Shaman;-1
+Moor Fiend;-1
+Piracy;1
+Nature's Cloak;-1
+Ransack;1
+Sylvan Yeti;3
+Psychic Transfer;2
+Dakmor Sorceress;3
+Eye Spy;1
+Renewing Touch;3
+False Peace;-1
+Lynx;-1
+Wind Sail;-1
+Relearn;1
+Hulking Ogre;-1
+Undo;1
+Howling Fury;-1
+Stream of Acid;3
+Dakmor Ghoul;1
+Jagged Lightning;2
+Dark Offering;1
+Shrieking Specter;1
+Devout Monk;1
+Scorching Spear;-1
+Muck Rats;-1
+Chorus of Woe;1
+Devoted Hero;-1
+Dakmor Scorpion;-1
+Ingenious Thief;1
+Steadfastness;-1
+Border Guard;-1
+Gorilla Warrior;-1
+Feral Shadow;1
+Goblin Hero;-1
+Norwood Archers;-1
+Touch of Brilliance;-1
+Barbtooth Wurm;-1
+Promise of Power;5
+Twilight Shepherd;6
+Luminous Angel;4
+Champion of the Parish;4
+Captain of the Mists;5
+Unbreathing Horde;5
+Human Frailty;1
+Sharpened Pitchfork;2
+Thraben Heretic;2
+Butcher's Cleaver;1
+Tribute to Hunger;3
+Tower Geist;3
+Abattoir Ghoul;3
+Slayer of the Wicked;1
+Relentless Skaabs;2
+Goldnight Redeemer;1
+Seraph Sanctuary;4
+Cathedral Sanctifier;1
+Butcher Ghoul;2
+Bonds of Faith;3
+Victim of Night;4
+Invoke the Firemind;4
+Galvanoth;5
+Twilight's Call;5
+Gleancrawler;5
+Sphinx-Bone Wand;2
+Doomgape;5
+Nivix, Aerie of the Firemind;3
+Ghoul's Feast;1
+Izzet Guildmage;5
+Reminisce;3
+Gelectrode;3
+Thunderheads;1
+Vacuumelt;2
+Vigor Mortis;4
+Nightmare Void;3
+Sadistic Hypnotist;3
+Overwhelming Intellect;5
+Elves of Deep Shadow;1
+Force Spike;4
+Train of Thought;3
+Pyromatics;-1
+Yoke of the Damned;2
+Shambling Shell;3
+Feast or Famine;1
+Brain Weevil;2
+Steamcore Weird;1
+Ogre Savant;1
+Jiang Yanggu;3
+Mu Yanling;3
+Journey for the Elixir;-1
+Rhythmic Water Vortex;-1
+Screeching Phoenix;3
+Ancestor Dragon;3
+Sacred White Deer;-1
+Moon-Eating Dog;-1
+Stormcloud Spirit;-1
+Fire-Omen Crane;-1
+Brilliant Plan;-1
+Mowu;-1
+Qilin's Blessing;1
+Leopard-Spotted Jiao;-1
+Welkin Tern;-1
+Breath of Fire;-1
+Cloak of Mists;2
+Feiyi Snake;-1
+Colorful Feiyi Sparrow;-1
+Drown in Shapelessness;1
+Aggressive Instinct;2
+Purple-Crystal Crab;2
+Vivid Flying Fish;-1
+Reckless Pangolin;1
+Confidence from Strength;2
+Dragon's Presence;1
+Armored Whirl Turtle;-1
+Nine-Tail White Fox;4
+Hardened-Scale Armor;2
+Heavenly Qilin;3
+Ferocious Zheng;-1
+Earth-Origin Yak;1
+Cleansing Screech;1
+Earthshaking Si;-1
+Kuro, Pitlord;4
+Icatian Priest;1
+Cruel Edict;4
+Angel's Feather;2
+Consume Spirit;4
+Demon's Horn;2
+Serra's Boon;1
+Soot Imp;4
+Oni Possession;2
+Serra Advocate;4
+Souldrinker;1
+Angelic Benediction;4
+Serra's Embrace;1
+Breeding Pit;2
+Corrupt;7
+Unholy Strength;1
+Healing Salve;1
+Abyssal Gatekeeper;1
+Angelsong;-1
+Dusk Imp;-1
+Overeager Apprentice;-1
+Venerable Monk;1
+Stinkweed Imp;6
+Cackling Imp;2
+Demon's Jester;1
+Pheres-Band Revelers;-1
+Impulsive Return;-1
+Impulsive Charge;-1
+Maddened Oread;-1
+Xenagos's Strike;-1
+Xenagos's Scorn;-1
+Wild Maenads;-1
+Dance of Flame;-1
+Ecstatic Piper;-1
+Dance of Panic;-1
+Serpent Dancers;-1
+Rollicking Throng;-1
+Xenagos Ascended;-1
+Impulsive Destruction;-1
+Rip to Pieces;-1
+Azor's Gateway;5
+Sanctum of the Sun;7
+Timestream Navigator;5
+Kumena, Tyrant of Orazca;7
+Huatli, Radiant Champion;4
+Twilight Prophet;7
+Trapjaw Tyrant;6
+Angrath, the Flame-Chained;6
+Angrath, Minotaur Pirate;-1
+The Immortal Sun;8
+Vraska, Scheming Gorgon;-1
+Azor, the Lawbringer;4
+Polyraptor;6
+Zacama, Primal Calamity;7
+Arch of Orazca;6
+Silent Gravestone;3
+Deeproot Elite;6
+Sphinx's Decree;2
+Dire Fleet Poisoner;6
+Tilonalli's Summoner;5
+Warkite Marauder;4
+Path of Mettle;3
+Metzali, Tower of Triumph;4
+Paladin of Atonement;6
+Siegehorn Ceratops;4
+Radiant Destiny;5
+Jadelight Ranger;7
+Blood Sun;4
+Captain's Hook;3
+Wayward Swordtooth;5
+Release to the Wind;4
+Induced Amnesia;3
+Journey to Eternity;9
+Atzal, Cave of Eternity;9
+Hadana's Climb;7
+Winged Temple of Orazca;7
+Profane Procession;6
+Tomb of the Dusk Rose;6
+Admiral's Order;3
+Protean Raider;5
+Tomb Robber;2
+Vona's Hunger;6
+Vraska's Scorn;-1
+Path of Discovery;6
+Golden Guardian;4
+Gold-Forge Garrison;5
+Mastermind's Acquisition;4
+Storm the Vault;5
+Vault of Catlacan;7
+Awakened Amalgam;2
+Bishop of Binding;2
+Kumena's Awakening;4
+Seafloor Oracle;7
+Temple Altisaur;5
+Angrath's Fury;-1
+Tendershoot Dryad;5
+Form of the Dinosaur;2
+Tetzimoc, Primal Death;6
+Silverclad Ferocidons;6
+Vicious Conquistador;1
+Sentinel Totem;1
+Sheltering Light;1
+Kumena's Speaker;4
+Rigging Runner;3
+Huatli's Spurring;-1
+Imperial Lancer;2
+Duskborne Skymarcher;1
+Perilous Voyage;2
+Wanted Scoundrels;4
+Merfolk Branchwalker;4
+Otepec Huntmaster;4
+Sky Terror;4
+River Sneak;5
+Dire Fleet Captain;6
+Elaborate Firecannon;-1
+Walk the Plank;2
+Raptor Hatchling;5
+Adanto Vanguard;7
+Pillar of Origins;1
+Storm Fleet Aerialist;4
+Jace's Sentinel;-1
+Teferi's Isle;1
+Telim'Tor's Edict;-1
+Phyrexian Dreadnought;-1
+Prismatic Lace;-1
+Afiya Grove;-1
+Energy Bolt;4
+Soul Echo;2
+Shallow Grave;5
+Divine Retribution;-1
+Torrent of Lava;1
+Mindbender Spores;2
+Grim Feast;4
+Brushwagg;4
+Paupers' Cage;5
+Reparations;5
+Hall of Gemstone;3
+Circle of Despair;2
+Cycle of Life;1
+Misers' Cage;4
+Ventifact Bottle;4
+Unfulfilled Desires;4
+Forsaken Wastes;4
+Phyrexian Tribute;-1
+Frenetic Efreet;-1
+Political Trickery;-1
+Teferi's Imp;2
+Chaosphere;-1
+Yare;-1
+Seeds of Innocence;3
+Leering Gargoyle;-1
+Preferred Selection;4
+Kukemssa Pirates;4
+Purgatory;6
+Lure of Prey;4
+Emberwilde Djinn;2
+Jungle Patrol;-1
+Natural Balance;6
+Benthic Djinn;-1
+Auspicious Ancestor;1
+Emberwilde Caliph;5
+Spectral Guardian;-1
+Harbinger of Night;6
+Tombstone Stairwell;4
+Asmira, Holy Avenger;2
+Acidic Dagger;-1
+Razor Pendulum;3
+Warping Wurm;-1
+Null Chamber;3
+Discordant Spirit;4
+Bone Mask;-1
+Phyrexian Purge;1
+Barreling Attack;-1
+Shimmer;4
+Tainted Specter;3
+Reflect Damage;1
+Taniwha;-1
+Zirilan of the Claw;6
+Hakim, Loreweaver;1
+Rashida Scalebane;1
+Subterranean Spirit;-1
+Zuberi, Golden Feather;-1
+Hivis of the Scale;3
+Bazaar of Wonders;-1
+Jabari's Influence;-1
+Sawback Manticore;2
+Amulet of Unmaking;-1
+Purraj of Urborg;-1
+Malignant Growth;3
+Energy Vortex;-2
+Mangara's Tome;4
+Cadaverous Bloom;-1
+Mist Dragon;-1
+Rock Basilisk;-1
+Catacomb Dragon;5
+Canopy Dragon;4
+Shauku, Endbringer;-1
+Teeka's Dragon;1
+Spirit of the Night;1
+Vigilant Martyr;3
+Tropical Storm;-1
+Goblin Soothsayer;1
+Mind Harness;6
+Dwarven Miner;7
+Sealed Fate;-1
+Telim'Tor's Darts;1
+Spatial Binding;1
+Decomposition;-1
+Withering Boon;-1
+Soul Rend;1
+Karoo Meerkat;-1
+Consuming Ferocity;-1
+Shadowbane;2
+Sirocco;1
+Vitalizing Cascade;4
+Prismatic Boon;4
+Mire Shade;-1
+Superior Numbers;-1
+Illumination;4
+Aleatory;-1
+Kaervek's Purge;6
+Favorable Destiny;1
+Unerring Sling;1
+Roots of Life;2
+Radiant Essence;-1
+Shauku's Minion;-1
+Mangara's Blessing;-1
+Horrible Hordes;-1
+Delirium;4
+Windreaper Falcon;-1
+Chariot of the Sun;-1
+Mangara's Equity;3
+Suq'Ata Firewalker;3
+Haunting Apparition;2
+Ersatz Gnomes;4
+Jungle Troll;6
+Mtenda Griffin;1
+Zebra Unicorn;-1
+Reign of Chaos;-1
+Crypt Cobra;5
+Burning Palm Efreet;-1
+Blind Fury;3
+Elixir of Vitality;1
+Vaporous Djinn;-1
+Kaervek's Hex;-1
+Crystal Golem;-1
+Flame Elemental;-1
+Locust Swarm;3
+Ether Well;-1
+Unyaro Bee Sting;1
+Hazerider Drake;3
+Zombie Mob;4
+Harbor Guardian;-1
+Wave Elemental;-1
+Dread Specter;-1
+Nettletooth Djinn;-1
+Floodgate;-1
+Barbed Foliage;3
+Sand Golem;-1
+Melesse Spirit;1
+Ravenous Vampire;-1
+Reign of Terror;4
+Cerulean Wyvern;-1
+Igneous Golem;-1
+Goblin Scouts;2
+Basalt Golem;3
+Iron Tusk Elephant;-1
+Crimson Roc;-1
+Barbed-Back Wurm;4
+Cinder Cloud;4
+Granger Guildmage;-1
+Mtenda Herder;-1
+Sapphire Charm;3
+Ebony Charm;3
+Cloak of Invisibility;2
+Civic Guildmage;1
+Soulshriek;-1
+Armorer Guildmage;-1
+Builder's Bane;3
+Village Elder;-1
+Mtenda Lion;-1
+Chaos Charm;3
+Seedling Charm;3
+Sewer Rats;4
+Ivory Charm;3
+Shaper Guildmage;-1
+Goblin Tinkerer;-1
+Agility;1
+Wall of Corpses;-1
+Alarum;-1
+Merfolk Raiders;-1
+Lightning Reflexes;-1
+Uktabi Faerie;2
+Reality Ripple;-1
+Restless Dead;2
+Teferi's Curse;2
+Grave Servitude;-1
+Bay Falcon;-1
+Pyric Salamander;-1
+Tranquil Domain;2
+Soar;-1
+Benevolent Unicorn;3
+Binding Agony;-1
+Femeref Healer;-1
+Wall of Resistance;-1
+Ward of Lights;8
+Sea Scryer;-1
+Serene Heart;-1
+Disempower;2
+Prismatic Circle;2
+Burning Shield Askari;-1
+Urborg Panther;-1
+Ritual of Steel;-1
+Bone Harvest;4
+Sabertooth Cobra;3
+Jolt;-1
+Breathstealer;-1
+Femeref Scouts;-1
+Merfolk Seer;-1
+Gibbering Hyenas;-1
+Teferi's Drake;-1
+Jolrael's Centaur;-1
+Femeref Knight;-1
+Thirst;1
+Blistering Barrier;-1
+Zhalfirin Knight;-1
+Azimaet Drake;-1
+Searing Spear Askari;-1
+Dwarven Nomad;1
+Dazzling Beauty;-1
+Dream Fighter;4
+Dirtwater Wraith;-1
+Raging Spirit;-1
+Wild Elephant;-1
+Fetid Horror;4
+Kukemssa Serpent;-1
+Ekundu Cyclops;-1
+Noble Elephant;-1
+Teremko Griffin;-1
+Sandbar Crocodile;-1
+Crash of Rhinos;-1
+Phyrexian Marauder;3
+Undiscovered Paradise;4
+Griffin Canyon;-1
+Tithe;4
+Flooded Shoreline;5
+Pygmy Hippo;3
+Squandered Resources;1
+Femeref Enchantress;5
+Suleiman's Legacy;-1
+Anvil of Bogardan;5
+Chronatog;1
+Corrosion;3
+Retribution of the Meek;5
+City of Solitude;5
+Three Wishes;4
+Katabatic Winds;1
+Kaervek's Spite;4
+Teferi's Realm;4
+Equipoise;5
+Righteous War;4
+Guiding Spirit;4
+Quirion Druid;1
+Lightning Cloud;-1
+Forbidden Ritual;-1
+Rainbow Efreet;1
+Elkin Lair;4
+Pillar Tombs of Aku;3
+Diamond Kaleidoscope;2
+Sands of Time;5
+Breathstealer's Crypt;5
+Eye of Singularity;-1
+Aku Djinn;1
+Kookus;-1
+Bogardan Phoenix;2
+Ogre Enforcer;3
+Lichenthrope;3
+Firestorm Hellkite;3
+Viashivan Dragon;2
+Elephant Grass;5
+Magma Mine;3
+Mob Mentality;-1
+Juju Bubble;1
+Vampirism;2
+Foreshadow;1
+Brood of Cockroaches;3
+Peace Talks;-1
+Time and Tide;2
+Relic Ward;1
+Helm of Awakening;5
+Blanket of Night;1
+Shimmering Efreet;3
+Mundungu;5
+Necromancy;7
+Teferi's Honor Guard;-1
+Desolation;3
+Army Ants;5
+Heat Wave;5
+Suq'Ata Assassin;6
+Wind Shear;-1
+Tempest Drake;3
+Tin-Wing Chimera;-1
+Brass-Talon Chimera;-1
+Kyscu Drake;-1
+Dream Tides;5
+Lead-Belly Chimera;-1
+Iron-Heart Chimera;-1
+Matopi Golem;-1
+Scalebane's Elite;3
+Talruum Piper;1
+Phyrexian Walker;5
+Rock Slide;1
+Spider Climb;1
+Shrieking Drake;3
+Hearth Charm;4
+Death Watch;3
+Emerald Charm;1
+Keeper of Kookus;-1
+Betrayal;4
+Goblin Swine-Rider;4
+Hope Charm;4
+Vision Charm;1
+Vanishing;2
+Mortal Wound;1
+Dark Privilege;1
+Mystic Veil;1
+Parapet;4
+Wicked Reward;1
+Freewind Falcon;-1
+Song of Blood;-1
+Gossamer Chains;4
+Infernal Harvest;1
+Sun Clasp;-1
+Feral Instinct;1
+Tar Pit Warrior;4
+Urborg Mindsucker;2
+Raging Gorilla;-1
+Solfatara;-1
+Dwarven Vigilantes;1
+Jamuraan Lion;2
+Knight of the Mists;-1
+Knight of Valor;1
+Breezekeeper;2
+Bull Elephant;-1
+Talruum Champion;-1
+Titania;-1
+Starke;-1
+Orim;-1
+Sliver Queen, Brood Mother;-1
+Sidar Kondo;-1
+Barrin;-1
+Takara;-1
+Tawnos;-1
+Ertai;-1
+Multani;-1
+Selenia;-1
+Tahngarth;-1
+Maraxus;-1
+Xantcha;-1
+Lyna;-1
+Eladamri;-1
+Greven il-Vec;-1
+Mirri;-1
+Crovax;-1
+Talas Warrior;4
+Alaborn Veteran;1
+Razorclaw Bear;2
+Coastal Wizard;1
+Nightstalker Engine;5
+Cunning Giant;-1
+Return of the Nightstalkers;-1
+Alaborn Zealot;1
+Bloodcurdling Scream;-1
+Deep Wood;3
+Harmony of Nature;3
+Temple Elder;1
+Goblin War Cry;2
+Apprentice Sorcerer;2
+Abyssal Nightstalker;3
+Ogre Arsonist;4
+Armored Galleon;-1
+Brutal Nightstalker;3
+Obsidian Giant;-1
+Kiss of Death;2
+Festival of Trokin;2
+Talas Merchant;-1
+Alaborn Grenadier;1
+Talas Scout;-1
+Dakmor Bat;-1
+Lurking Nightstalker;3
+Talas Explorer;1
+Bear Cub;1
+Steam Frigate;-1
+Raiding Nightstalker;3
+Déjà Vu;2
+Moaning Spirit;-1
+Norwood Warrior;-1
+Town Sentry;-1
+Norwood Riders;-1
+Trokin High Guard;-1
+Golden Bear;-1
+Talas Air Ship;-1
+Ogre Berserker;1
+Plated Wurm;-1
+Sphinx of Magosi;5
+Garruk's Horde;4
+Stormfront Pegasus;1
+Wing Snare;-1
+Raise Dead;2
+Glory Seeker;-1
+Falkenrath Reaver;-1
+Drag Under;2
+Rootwalla;-1
+Untamed Hunger;2
+Stealer of Secrets;4
+Standing Troops;-1
+Inspiration;1
+Tricks of the Trade;4
+Stalking Tiger;3
+Stampeding Rhino;-1
+Thundering Giant;3
+Certain Death;-1
+Nicolas Labarre Bio;-1
+Jon Finkel Decklist;-1
+2000 World Championships Ad;-1
+Tom van de Logt Bio (2000);-1
+Janosch Kühn Decklist (2000);-1
+Tom van de Logt Decklist (2000);-1
+Jon Finkel Bio;-1
+Janosch Kühn Bio (2000);-1
+Nicolas Labarre Decklist;-1
+Peer Kröger Decklist;-1
+Wolfgang Eder Decklist;-1
+Daniel Zink Decklist;-1
+Dave Humpherys Decklist;-1
+2003 World Championships Ad;-1
+Peer Kröger Bio;-1
+Daniel Zink Bio;-1
+Dave Humpherys Bio;-1
+Wolfgang Eder Bio;-1
+Ashuza's Breath;-1
+Saji's Torrent;-1
+Camato Scout;-1
+Tornellan Protector;-1
+Hapato's Might;-1
+Lydari Druid;-1
+Lydari Elephant;-1
+Murgish Cemetery;-1
+Arden Angel;-1
+Velican Dragon;-1
+2004 World Championships Ad;-1
+Julien Nuijten Decklist;-1
+Manuel Bevand Bio;-1
+Aeo Paquette Decklist;-1
+Julien Nuijten Bio;-1
+Manuel Bevand Decklist;-1
+Gabriel Nassif Bio;-1
+Aeo Paquette Bio;-1
+Blank Card;-1
+Gabriel Nassif Decklist;-1
+Phyrexian Negator;2
+Phyrexian Processor;4
+Gerrard Capashen;4
+Darigaaz, the Igniter;3
+Treva, the Renewer;3
+Rith, the Awakener;2
+Phyrexian Colossus;1
+Shivan Oasis;-1
+Evasive Action;3
+Phyrexian Totem;3
+Darigaaz's Charm;5
+Verduran Emissary;4
+Thunderscape Battlemage;5
+Rith's Charm;5
+Phyrexian Vault;3
+Sunscape Battlemage;4
+Sanguine Guard;3
+Priest of Gix;4
+Treva's Charm;6
+Puppet Strings;4
+Power Armor;2
+Hornet Cannon;2
+Charging Troll;3
+Order of Yawgmoth;5
+Allied Strategies;1
+Phyrexian Battleflies;-1
+Thornscape Apprentice;3
+Nomadic Elf;1
+Phyrexian Denouncer;-1
+Gerrard's Command;4
+Quirion Elves;1
+Exotic Curse;-1
+Narrow Escape;3
+Hollow Trees;4
+Sand Silos;4
+Dwarven Hold;4
+Icatian Store;4
+Bottomless Vault;4
+Living Artifact;3
+Ironclaw Curse;-1
+Helm of Chatzuk;3
+Sleight of Mind;-1
+Magical Hack;-1
+Crown of the Ages;5
+Aspect of Wolf;4
+Sorceress Queen;-1
+An-Havva Constable;1
+Game of Chaos;-1
+Infinite Hourglass;3
+Urza's Avenger;-1
+Primordial Ooze;2
+Mind Bomb;2
+Lifetap;4
+Feedback;3
+Arenson's Aura;-1
+Cave People;-1
+Anti-Magic Aura;-1
+Mole Worms;4
+Wall of Brambles;-1
+Justice;5
+Cursed Land;4
+Serra Paladin;-1
+Wolverine Pack;1
+Greater Werewolf;-1
+Joven's Tools;-1
+Initiates of the Ebon Hand;-1
+Brainwash;4
+Imposing Visage;-1
+Tarpan;-1
+Eternal Warrior;-1
+Hipparion;-1
+Pikemen;1
+Blessed Wine;-1
+The Brute;1
+Repentant Blacksmith;-1
+Prismatic Ward;4
+Zephyr Falcon;-1
+Drain Life;4
+Battering Ram;2
+Updraft;-1
+Reef Pirates;2
+Plague Rats;5
+Soul Barrier;4
+Pit Scorpion;6
+Touch of Death;-1
+Foxfire;-1
+Mind Ravel;4
+Pearled Unicorn;-1
+Dwarven Warriors;-1
+Venom;-1
+Frozen Shade;3
+Flare;-1
+Murk Dwellers;-1
+Marsh Viper;4
+Dark Maze;-1
+Homarid Warrior;-1
+Ironroot Treefolk;-1
+Lotus Vale;4
+Winding Canyons;4
+Scorched Ruins;5
+Mwonvuli Ooze;3
+Goblin Bomb;3
+Ancestral Knowledge;4
+Tolarian Entrancer;5
+Abeyance;1
+Ertai's Familiar;-1
+Paradigm Shift;3
+Urborg Justice;1
+Dwarven Thaumaturgist;3
+Bone Dancer;4
+Wave of Terror;3
+Inner Sanctum;4
+Bösium Strip;3
+Debt of Loyalty;5
+Mana Web;6
+Well of Knowledge;3
+Heat Stroke;5
+Infernal Tribute;3
+Peacekeeper;5
+Heart of Bogardan;7
+Fungus Elemental;1
+Psychic Vortex;5
+Bubble Matrix;6
+Thran Tome;2
+Avizoa;-1
+Pendrell Mists;5
+Liege of the Hollows;5
+Urborg Stalker;2
+Gallowbraid;-1
+Morinfen;-1
+Alabaster Dragon;4
+Aboroth;3
+Maraxus of Keld;4
+Tolarian Serpent;3
+Xanthic Statue;-1
+Argivian Find;3
+Phyrexian Furnace;1
+Roc Hatchling;1
+Straw Golem;-1
+Circling Vultures;2
+Desperate Gambit;-1
+Revered Unicorn;3
+Jabari's Banner;4
+Orcish Settlers;5
+Touchstone;5
+Volunteer Reserves;1
+Teferi's Veil;6
+Sylvan Hierophant;3
+Master of Arms;-1
+Noble Benefactor;2
+Fallow Wurm;1
+Necratog;1
+Hurloon Shaman;1
+Vodalian Illusionist;4
+Chimeric Sphere;4
+Downdraft;1
+Thran Forge;1
+Cinder Giant;2
+Odylic Wraith;1
+Dingus Staff;3
+Foriysian Brigade;2
+Goblin Grenadiers;-1
+Barishi;5
+Festering Evil;3
+Arctic Wolves;2
+Apathy;4
+Mana Chains;4
+Kithkin Armor;2
+Tendrils of Despair;5
+Choking Vines;2
+Goblin Vandal;3
+Benalish Missionary;3
+Briar Shield;1
+Rogue Elephant;3
+Abjure;4
+Alms;1
+Blossoming Wreath;3
+Coils of the Medusa;2
+Barrow Ghoul;3
+Betrothed of Fire;-1
+Shattered Crypt;4
+Soul Shepherd;1
+Merfolk Traders;3
+Llanowar Druid;2
+Dwarven Berserker;2
+Harvest Wurm;3
+Duskrider Falcon;-1
+Nature's Kiss;4
+Benalish Infantry;-1
+Zombie Scavengers;-1
+Haunting Misery;6
+Jangling Automaton;-1
+Flux;3
+Boiling Blood;1
+Manta Ray;1
+Tolarian Drake;-1
+Uktabi Efreet;-1
+Sawtooth Ogre;1
+Shadow Rider;1
+Striped Bears;-1
+Lava Storm;1
+Spinning Darkness;2
+Whim of Volrath;-1
+Ertai's Meddling;3
+Mirri's Guile;6
+Sacred Guide;1
+Eladamri's Vineyard;3
+Scorched Earth;5
+Carrionette;5
+Mana Severance;5
+Oracle en-Vec;4
+Earthcraft;3
+Fevered Convulsions;3
+Shocker;2
+Scalding Tongs;3
+Thumbscrews;3
+Magnetic Web;5
+Eladamri, Lord of Leaves;6
+Phyrexian Grimoire;4
+Torture Chamber;2
+Hanna's Custody;2
+Rootwater Shaman;1
+Maddening Imp;3
+Hand to Hand;2
+Pallimud;4
+Pegasus Refuge;1
+Bounty Hunter;2
+Fool's Tome;1
+Unstable Shapeshifter;3
+Energizer;1
+Echo Chamber;7
+Helm of Possession;8
+Elven Warhounds;3
+Canyon Drake;-1
+Crazed Armodon;2
+Chaotic Goo;-1
+No Quarter;4
+Fugitive Druid;3
+Mongrel Pack;3
+Cold Storage;3
+Duplicity;3
+Escaped Shapeshifter;4
+Dirtcowl Wurm;3
+Minion of the Wastes;5
+Ghost Town;3
+Storm Front;-1
+Flickering Ward;2
+Rootwater Diver;2
+Tahngarth's Rage;-1
+Worthy Cause;3
+Quickening Licid;4
+Invulnerability;4
+Phyrexian Splicer;4
+Mogg Squad;-1
+Nurturing Licid;1
+Steal Enchantment;3
+Dauthi Ghoul;-1
+Enraging Licid;-1
+Serene Offering;3
+Mogg Cannon;-1
+Essence Bottle;2
+Imps' Taunt;4
+Abandon Hope;1
+Interdict;1
+Leeching Licid;3
+Stinging Licid;3
+Skyshroud Condor;2
+Havoc;1
+Ranger en-Vec;1
+Ancient Runes;2
+Soltari Crusader;-1
+Knight of Dawn;3
+Opportunist;-1
+Thalakos Dreamsower;-1
+Watchdog;-1
+Dauthi Embrace;4
+Fylamarid;-1
+Winter's Grasp;4
+Mindwhip Sliver;4
+Orim's Prayer;3
+Heartwood Treefolk;1
+Firefly;1
+Trumpeting Armodon;1
+Flailing Drake;-1
+Apes of Rath;-1
+Wild Wurm;-1
+Dauthi Mindripper;3
+Flowstone Salamander;3
+Segmented Wurm;-1
+Mogg Raider;1
+Sadistic Glee;1
+Pit Imp;-1
+Soltari Foot Soldier;-1
+Frog Tongue;3
+Endless Scream;-1
+Manta Riders;-1
+Squee's Toy;3
+Spike Drone;-1
+Circle of Protection: Shadow;-1
+Heart Sliver;5
+Talon Sliver;7
+Advance Scout;-1
+Blood Frenzy;-1
+Clergy en-Vec;3
+Thalakos Sentry;-1
+Disturbed Burial;4
+Bayou Dragonfly;-1
+Servant of Volrath;-1
+Broken Fall;-1
+Thalakos Mistfolk;-1
+Darkling Stalker;-1
+Marsh Lurker;-1
+Flowstone Giant;-1
+Giant Crab;2
+Athreos, Shroud-Veiled;8
+Gleemox;99
+Windseeker Centaur;-1
+Nalathni Dragon;-1
+Sewers of Estark;-1
+;-2
+;-2
+Jakub Šlemr Bio (1999);-1
+Jakub Šlemr Decklist (1999);-1
+Kai Budde Decklist;-1
+Mark Le Pine Decklist;-1
+1999 World Championships Ad;-1
+Mark Le Pine Bio;-1
+Kai Budde Bio;-1
+Matt Linde Decklist;-1
+Matt Linde Bio;-1
+Jinxed Ring;2
+Amok;-1
+Sword of the Chosen;1
+Volrath's Gardens;4

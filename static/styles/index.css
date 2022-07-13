@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(20,20,20);
+    color: wheat;
+}
+
+header{
+    display: flex;
+    height: 15vw;
+}
+.homebutton{
+    width: 15vw;
+}
+header div{
+    background-color: rgb(40,40,40);
+    width: 70vw;
+    text-align: center;
+}
+
+
+
+
+main{
+}
+
+main div{
+    background-color: rgb(40,40,40);
+    margin: 10%;
+    width: 80%;
+    height: 75vh;
+    display: flex;
+    flex-direction: column;
+}
+main div a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+    background-color: rgb(60,60,60);
+    text-align: center;
+    margin: 10ex;
+    height: 4em;
+  }
+
+  main div a:hover{
+    background-color: rgb(80,80,80);
+  }

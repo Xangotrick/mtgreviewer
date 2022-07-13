@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/sets.css') }}">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MTG REVIEW APP</title>
+</head>
+<body>
+    <header>
+        <div class="homebutton"><a href="/index"><img src="{{ url_for('static',filename='img/left.svg') }}" alt=""></a></div>
+        <div><h1>{{sumreview}}/{{sumtot}}({{percent}}%)</h1></div>
+        <div class="homebutton"></div>
+    </header>
+    <main>
+        <div>
+            {% for set in listofsets %}
+            {% if set.checkfill() %}
+            <a href= {{set.weburl}}>
+                <div style="margin: 0px; background-color: rgb(60, 60, 60); height: 100%; width: 40%;">
+                    <img src={{set.uri}} alt="" style="margin:6%;height: 82%;filter: invert(0.85) sepia(75%);" >
+                </div>
+                <div id="settitle" style="margin: 10px;"> 
+                    <div style="font-size:0.7em;">{{set.name}}</div>
+                    <div style="font-size: 0.5em; font-style: italic;">{{set.faggot()}}</div>
+                </div>
+            </a>
+            {% endif %}
+            {% endfor %}
+
+            
+        </div>
+    </main>
+</body>
+</html>

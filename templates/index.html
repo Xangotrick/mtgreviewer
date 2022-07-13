@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/index.css') }}">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MTG REVIEW APP</title>
+</head>
+<body>
+    <header>
+        <div class="homebutton"></div>
+        <div><h1>Who are you?{{ request.environ['SERVER_NAME'] }}</h1></div>
+        <div class="homebutton"></div>
+    </header>
+    <main>
+        <div>
+            <a href='/users/Kroux'><h2>Kroux</h2></a>
+            <hr style="width: 80%; color:wheat;">
+            <a href='/users/Titi'><h2>Titi</h2></a>
+        </div>
+    </main>
+</body>
+</html>

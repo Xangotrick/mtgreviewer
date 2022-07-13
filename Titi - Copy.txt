@@ -1,0 +1,432 @@
+Raffine's Tower;-1
+Xander's Lounge;-1
+Jetmir's Garden;-1
+Ziatora's Proving Ground;-1
+Errant, Street Artist;3
+Giada, Font of Hope;7
+Black Market Tycoon;4
+Tenacious Underdog;4
+Cut of the Profits;5
+Unlicensed Hearse;3
+Gala Greeters;5
+Scheming Fence;6
+Ledger Shredder;4
+Park Heights Pegasus;3
+Aven Heartstabber;4
+Toluz, Clever Conductor;4
+Halo Fountain;7
+Sanguine Spy;5
+Professional Face-Breaker;5
+Fight Rigging;5
+Rigo, Streetwise Mentor;5
+Even the Score;3
+Widespread Thieving;3
+Evolving Door;3
+Extraction Specialist;3
+Jinnie Fay, Jetmir's Second;6
+Maestros Diabolist;3
+Void Rend;6
+Riveteers Ascendancy;5
+Shakedown Heavy;6
+Brokers Ascendancy;5
+Getaway Car;3
+Cemetery Tampering;3
+Corpse Explosion;4
+Cabaretti Ascendancy;6
+Incandescent Aria;4
+Maestros Ascendancy;3
+Endless Detour;5
+Devilish Valet;5
+Topiary Stomper;6
+Jetmir, Nexus of Revels;6
+Body Launderer;6
+Urabrask, Heretic Praetor;6
+Angel of Suffering;5
+Vivien on the Hunt;6
+Arcane Bombardment;4
+Sanctuary Warden;4
+Bootleggers' Stash;4
+All-Seeing Arbiter;4
+Titan of Industry;5
+Lord Xander, the Collector;5
+Meeting of the Five;3
+Undercover Operative;5
+Hoard Hauler;3
+Reservoir Kraken;7
+Depopulate;6
+Fleetfoot Dancer;5
+Jaxis, the Troublemaker;3
+Ziatora's Envoy;4
+Ognis, the Dragon's Lash;5
+Unleash the Inferno;3
+Workshop Warchief;6
+Structural Assault;3
+Rabble Rousing;6
+Hostile Takeover;4
+Cut Your Losses;3
+Soul of Emancipation;4
+Shadow of Mortality;4
+Mox Amber;6
+History of Benalia;5
+Karn, Scion of Urza;5
+Phyrexian Scriptures;5
+Verix Bladewing;5
+Lyra Dawnbringer;7
+Teferi, Hero of Dominaria;7
+Chandra, Bold Pyromancer;4
+Demonlord Belzenlok;6
+Teferi, Timebender;4
+Darigaaz Reincarnated;4
+Cabal Stronghold;4
+Isolated Chapel;-1
+Woodland Cemetery;-1
+Clifftop Retreat;-1
+Hinterland Harbor;-1
+Kamahl's Druidic Vow;4
+Naban, Dean of Iteration;5
+Goblin Chainwhirler;5
+Niambi, Faithful Healer;-1
+Steel Leaf Champion;6
+Sylvan Awakening;6
+Dread Shade;3
+Tempest Djinn;5
+The First Eruption;3
+Forebear's Blade;3
+Grand Warlord Radha;5
+Thran Temporal Gateway;6
+Territorial Allosaurus;3
+Helm of the Host;6
+Josu Vess, Lich Knight;6
+Aryel, Knight of Windgrace;4
+Precognition Field;3
+Shalai, Voice of Plenty;6
+Rite of Belzenlok;5
+The Antiquities War;6
+Daring Archaeologist;4
+Traxos, Scourge of Kroog;5
+Two-Headed Giant;3
+Mishra's Self-Replicator;3
+The Mirari Conjecture;4
+Yawgmoth's Vile Offering;5
+Chandra's Outburst;-1
+Urza's Ruinous Blast;5
+Gilded Lotus;4
+Oath of Teferi;5
+Fall of the Thran;3
+Karn's Temporal Sundering;5
+Lich's Mastery;6
+Evra, Halcyon Witness;5
+Haphazard Bombardment;3
+Kazarov, Sengir Pureblood;3
+Primevals' Glorious Rebirth;7
+Verdant Force;4
+Abaddon the Despoiler;5
+Fabricate;5
+Vanguard Suppressor;3
+Blood for the Blood God!;5
+;-1
+Robber of the Rich;5
+The Royal Scions;6
+Oko, Thief of Crowns;99
+Brazen Borrower;5
+Petty Theft;5
+Outlaws' Merriment;6
+Questing Beast;6
+Rankle, Master of Pranks;5
+Korvold, Fae-Cursed King;5
+Rowan, Fearless Sparkmage;-1
+Kenrith, the Returned King;6
+Chulane, Teller of Tales;6
+Syr Gwyn, Hero of Ashvale;5
+Garruk, Cursed Huntsman;6
+Harmonious Archon;3
+Oko, the Trickster;-1
+The Circle of Loyalty;6
+The Great Henge;8
+The Magic Mirror;5
+The Cauldron of Eternity;4
+Stonecoil Serpent;6
+Castle Garenbrig;3
+Fervent Champion;6
+Giant Killer;5
+Chop Down;4
+Gilded Goose;5
+Stormfist Crusader;5
+Blacklance Paragon;6
+Worthy Knight;6
+Hushbringer;4
+Wildborn Preserver;5
+Stolen by the Fae;4
+Wishclaw Talisman;5
+Folio of Fancies;3
+Sorcerous Spyglass;3
+Fae of Wishes;4
+Granted;5
+Charming Prince;6
+Tome of Legends;5
+Once Upon a Time;7
+Vantress Gargoyle;5
+Yorvo, Lord of Garenbrig;6
+Murderous Rider;6
+Swift End;7
+Oathsworn Knight;5
+Acclaimed Contender;3
+Ayara, First of Locthwain;6
+Irencrag Pyromancer;6
+Faeburrow Elder;5
+Mirrormade;4
+Happily Ever After;5
+Witch's Vengeance;4
+Mace of the Valiant;5
+Knights' Charge;6
+Gadwick, the Wizened;5
+Linden, the Steadfast Queen;6
+Wicked Wolf;5
+Fires of Invention;6
+Irencrag Feat;3
+Embereth Skyblazer;3
+Torbran, Thane of Red Fell;6
+Doom Foretold;7
+Faerie Formation;4
+A-Fires of Invention;6
+Rowan's Stalwarts;-1
+Clackbridge Troll;6
+Oko's Hospitality;-1
+Banish into Fable;6
+Feasting Troll King;5
+Lochmere Serpent;5
+Silverwing Squadron;-1
+Shimmer Dragon;5
+Sundering Stroke;3
+Workshop Elders;3
+Thorn Mammoth;6
+Princess Twilight Sparkle;-1
+Rarity;-1
+Nightmare Moon;-1
+Princess Luna;-1
+Robot Chicken;-1
+Phoenix Heart;-1
+Jace, Cunning Castaway;3
+Rowdy Crew;3
+Admiral Beckett Brass;6
+Huatli, Warrior Poet;6
+Vona, Butcher of Magan;7
+Huatli, Dinosaur Knight;-1
+Axis of Mortality;6
+Vraska, Relic Seeker;7
+Carnage Tyrant;6
+Jace, Ingenious Mind-Mage;-1
+Tishana, Voice of Thunder;4
+Star of Extinction;5
+Overflowing Insight;3
+Wakening Sun's Avatar;4
+Gishath, Sun's Avatar;5
+Glacial Fortress;-1
+Sunpetal Grove;-1
+Dragonskull Summit;-1
+Drowned Catacomb;-1
+Rootbound Crag;-1
+Shapers' Sanctuary;7
+Deadeye Tracker;4
+Old-Growth Dryads;5
+Priest of the Wakening Sun;5
+Legion's Landing;4
+Adanto, the First Fort;3
+Treasure Map;3
+Treasure Cove;4
+Deeproot Champion;4
+Shadowed Caravel;3
+Fathom Fleet Captain;3
+Bloodcrazed Paladin;3
+Sanguine Sacrament;5
+Ashes of the Abhorrent;5
+Tocatli Honor Guard;3
+Arguel's Blood Fast;2
+Temple of Aclazotz;2
+Dowsing Dagger;2
+Lost Vale;5
+Search for Azcanta;6
+Azcanta, the Sunken Ruin;6
+Thaumatic Compass;3
+Spires of Orazca;5
+Entrancing Melody;6
+Kopala, Warden of Waves;6
+Deathgorge Scavenger;3
+Mavren Fein, Dusk Apostle;4
+Arcane Adaptation;5
+Captain Lannery Storm;3
+Tilonalli's Skinshifter;3
+Rampaging Ferocidon;6
+Repeating Barrage;2
+Sword-Point Diplomacy;4
+Kinjalli's Sunwing;5
+Ruin Raider;3
+Fell Flagship;3
+Growing Rites of Itlimoc;3
+Itlimoc, Cradle of the Sun;3
+Settle the Wreckage;6
+Herald of Secret Streams;5
+Vraska's Contempt;7
+Emperor's Vanguard;2
+Vance's Blasting Cannons;2
+Spitfire Bastion;3
+Conqueror's Galleon;3
+Conqueror's Foothold;4
+Primal Amulet;3
+Primal Wellspring;5
+Dreamcaller Siren;3
+Bishop of Rebirth;4
+Regisaur Alpha;4
+Sun-Blessed Mount;-1
+Spell Swindle;3
+Vanquisher's Banner;5
+Grasping Current;-1
+Revel in Riches;6
+Burning Sun's Avatar;5
+Angrath's Marauders;3
+Goring Ceratops;3
+Fleet Swallower;4
+Azor's Gateway;2
+Sanctum of the Sun;7
+Timestream Navigator;6
+Kumena, Tyrant of Orazca;7
+Huatli, Radiant Champion;5
+Twilight Prophet;6
+Trapjaw Tyrant;6
+Angrath, the Flame-Chained;6
+Angrath, Minotaur Pirate;-1
+The Immortal Sun;7
+Vraska, Scheming Gorgon;-1
+Azor, the Lawbringer;6
+Polyraptor;6
+Zacama, Primal Calamity;7
+Arch of Orazca;5
+Silent Gravestone;2
+Deeproot Elite;5
+Sphinx's Decree;3
+Dire Fleet Poisoner;5
+Tilonalli's Summoner;6
+Warkite Marauder;4
+Path of Mettle;4
+Metzali, Tower of Triumph;5
+Paladin of Atonement;5
+Siegehorn Ceratops;3
+Radiant Destiny;5
+Jadelight Ranger;6
+Blood Sun;3
+Captain's Hook;2
+Wayward Swordtooth;5
+Release to the Wind;3
+Induced Amnesia;3
+Journey to Eternity;6
+Atzal, Cave of Eternity;7
+Hadana's Climb;5
+Winged Temple of Orazca;7
+Profane Procession;5
+Tomb of the Dusk Rose;7
+Admiral's Order;4
+Protean Raider;5
+Tomb Robber;3
+Vona's Hunger;6
+Vraska's Scorn;-1
+Path of Discovery;6
+Golden Guardian;3
+Gold-Forge Garrison;4
+Mastermind's Acquisition;5
+Storm the Vault;4
+Vault of Catlacan;6
+Awakened Amalgam;3
+Bishop of Binding;4
+Kumena's Awakening;4
+Seafloor Oracle;5
+Temple Altisaur;4
+Angrath's Fury;-1
+Tendershoot Dryad;6
+Form of the Dinosaur;3
+Tetzimoc, Primal Death;7
+Silverclad Ferocidons;6
+Kroxa, Titan of Death's Hunger;7
+Heliod, Sun-Crowned;6
+Klothys, God of Destiny;7
+Uro, Titan of Nature's Wrath;7
+Thassa, Deep-Dwelling;6
+Nylea, Keen-Eyed;7
+Polukranos, Unchained;6
+Erebos, Bleak-Hearted;5
+Calix, Destiny's Hand;5
+Elspeth, Sun's Nemesis;5
+Elspeth, Undaunted Hero;-1
+Purphoros, Bronze-Blooded;6
+Ashiok, Nightmare Muse;7
+Ashiok, Sculptor of Fears;-1
+Kiora Bests the Sea God;7
+Nyxbloom Ancient;6
+Labyrinth of Skophos;6
+Erebos's Intervention;5
+Purphoros's Intervention;4
+Bronzehide Lion;5
+Protean Thaumaturge;6
+Eidolon of Obstruction;3
+Thassa's Oracle;6
+Underworld Breach;3
+Gallia of the Endless Dance;4
+Aphemia, the Cacophony;3
+Nylea's Intervention;4
+Heliod's Intervention;5
+Thassa's Intervention;5
+Phoenix of Ash;5
+Storm Herald;3
+Treacherous Blessing;5
+Tymaret Calls the Dead;3
+Taranika, Akroan Veteran;5
+Dalakos, Crafter of Wonders;4
+Wavebreak Hippocamp;3
+Setessan Champion;6
+Idyllic Tutor;4
+The First Iroan Games;6
+Dryad of the Ilysian Grove;5
+Kunoros, Hound of Athreos;6
+Ashiok's Erasure;3
+Shatter the Sky;6
+Archon of Sun's Grace;6
+Atris, Oracle of Half-Truths;4
+Enigmatic Incarnation;3
+Haktos the Unscarred;5
+Nightmare Shepherd;6
+Eat to Extinction;6
+Elspeth's Devotee;-1
+Mantle of the Wolf;4
+Nyx Lotus;3
+Storm's Wrath;5
+Ashiok's Forerunner;-1
+Nessian Boar;3
+Thryx, the Sudden Storm;6
+Allure of the Unknown;3
+Gravebreaker Lamia;5
+Elspeth Conquers Death;7
+Ironscale Hydra;6
+Underworld Sentinel;6
+Dream Trawler;7
+Serpent of Yawning Depths;5
+Grasping Giant;4
+Demon of Loathing;6
+Sphinx Mindbreaker;5
+Deathbellow War Cry;3
+Finale of Eternity;6
+Finale of Glory;6
+Finale of Devastation;6
+Finale of Revelation;6
+Finale of Promise;7
+Gideon Blackblade;7
+God-Eternal Kefnet;7
+Niv-Mizzet Reborn;4
+God-Eternal Bontu;7
+God-Eternal Oketra;7
+Nicol Bolas, Dragon-God;7
+Ilharg, the Raze-Boar;6
+God-Eternal Rhonas;6
+Gideon, the Oathsworn;-1
+Jace, Arcane Strategist;-1
+Liliana, Dreadhorde General;8
+Tezzeret, Master of the Bridge;5
+Tezzeret, Master of the Bridge;5

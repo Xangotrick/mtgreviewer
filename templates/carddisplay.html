@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/carddisplay.css') }}">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <div class="homebutton"><a href="{{backurl}}"><img src="{{ url_for('static',filename='img/left.svg') }}" alt=""></a></div>
+        <div><h1></h1></div>
+        <div class="homebutton"></div>
+    </header>
+    <br>
+    <div style="margin-left: 15%;margin-right:15%;">
+        <img src={{theurl}} alt="" style="width:100%;">
+    </div>
+    <br>
+    <main>
+        <form action="" method="post" class="but">
+            {{ form.csrf_token }}
+            <input type="hidden" name="building" value="1">
+            {{form.submit1}}
+        </form>
+        <form action="" method="post" class="but">
+            {{ form.csrf_token }}
+            <input type="hidden" name="building" value="2">
+            {{form.submit2}}
+        </form>
+        <form action="" method="post" class="but">
+            {{ form.csrf_token }}
+            <input type="hidden" name="building" value="3">
+            {{form.submit3}}
+        </form>
+        <form action="" method="post" class="but">
+            {{ form.csrf_token }}
+            <input type="hidden" name="building" value="4">
+            {{form.submit4}}
+        </form>
+        <form action="" method="post" class="but">
+            {{ form.csrf_token }}
+            <input type="hidden" name="building" value="5">
+            {{form.submit5}}
+        </form>
+        <form action="" method="post" class="but">
+            {{ form.csrf_token }}
+            <input type="hidden" name="building" value="6">
+            {{form.submit6}}
+        </form>
+        <form action="" method="post" class="but">
+            {{ form.csrf_token }}
+            <input type="hidden" name="building" value="7">
+            {{form.submit7}}
+        </form>
+        <form action="" method="post" class="but">
+            {{ form.csrf_token }}
+            <input type="hidden" name="building" value="8">
+            {{form.submit8}}
+        </form>
+        <form action="" method="post" class="but">
+            {{ form.csrf_token }}
+            <input type="hidden" name="building" value="9">
+            {{form.submit9}}
+        </form>
+        <form action="" method="post" class="but">
+            {{ form.csrf_token }}
+            <input type="hidden" name="building" value="10">
+            {{form.submit10}}
+        </form>
+    </main>
+    <p style="height: 1vw;"></p>
+    <main>
+        <form action="" method="post" class="but">
+            {{ form.csrf_token }}
+            <input type="hidden" name="building" value="-1">
+            {{form.submitminus1}}
+        </form>
+
+        
+        <p style="width : 38vw"></p>
+        
+        <form action="" method="post" class="but">
+            {{ form.csrf_token }}
+            <input type="hidden" name="building" value="-2">
+            {{form.submitminus2}}
+        </form>
+
+        <p style="width : 38vw"></p>
+        
+        <form action="" method="post" class="but">
+            {{ form.csrf_token }}
+            <input type="hidden" name="building" value="99">
+            {{form.submit99}}
+        </form>
+    </main>
+</body>
+</html>

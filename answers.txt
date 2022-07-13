@@ -1,0 +1,40 @@
+Raffine's Tower;4
+Xander's Lounge;-1
+Jetmir's Garden;-1
+Ziatora's Proving Ground;-1
+Errant, Street Artist;-1
+Giada, Font of Hope;3
+Black Market Tycoon;7
+Tenacious Underdog;4
+Cut of the Profits;4
+Unlicensed Hearse;5
+Gala Greeters;3
+Scheming Fence;5
+Ledger Shredder;6
+Park Heights Pegasus;4
+Aven Heartstabber;3
+Toluz, Clever Conductor;4
+Halo Fountain;4
+Sanguine Spy;7
+Professional Face-Breaker;5
+Fight Rigging;5
+Rigo, Streetwise Mentor;5
+Even the Score;5
+Widespread Thieving;3
+Evolving Door;3
+Extraction Specialist;3
+Jinnie Fay, Jetmir's Second;3
+Maestros Diabolist;6
+Void Rend;3
+Riveteers Ascendancy;6
+Shakedown Heavy;5
+Brokers Ascendancy;6
+Getaway Car;7
+Cemetery Tampering;3
+Corpse Explosion;3
+Cabaretti Ascendancy;4
+Incandescent Aria;6
+Maestros Ascendancy;4
+Endless Detour;3
+Devilish Valet;5
+Topiary Stomper;5

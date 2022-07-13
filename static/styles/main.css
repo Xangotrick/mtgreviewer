@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(20,20,20);
+    color: wheat;
+}
+
+header{
+    display: flex;
+    height: 15vw;
+}
+.homebutton{
+    width: 15vw;
+}
+header div{
+    background-color: rgb(40,40,40);
+    width: 70vw;
+    text-align: center;
+}
+
+
+
+
+main{
+    background-color: blue;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+input[type=submit]{
+    height: 9.5vw;
+    width: 9.5vw;
+}
+
